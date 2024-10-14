@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UDP_Server</id>
+    <version>1.0.0</version>
+    <authors>UDP_Server</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\0. UIT\HK3\LTMCB\2. Bai Tap\BT5_UDPSocket\BT5_UDPSocket\bin\Debug\net8.0-windows\UDP_Server.runtimeconfig.json" target="lib\net8.0-windows7.0\UDP_Server.runtimeconfig.json" />
+    <file src="D:\0. UIT\HK3\LTMCB\2. Bai Tap\BT5_UDPSocket\BT5_UDPSocket\bin\Debug\net8.0-windows\UDP_Server.dll" target="lib\net8.0-windows7.0\UDP_Server.dll" />
+  </files>
+</package>
